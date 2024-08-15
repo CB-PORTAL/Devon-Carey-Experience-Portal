@@ -1,2 +1,16 @@
 # Ignore Windows system files
 desktop.ini
+# Unreal Engine Files and Directories
+dcb_portal_website/
+*.uasset
+*.umap
+*.uproject
+*.sav
+*.log
+*.dll
+*.pdb
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
