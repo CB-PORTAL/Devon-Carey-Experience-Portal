@@ -1,0 +1,1 @@
+# Details the UI elements and their design considerations.

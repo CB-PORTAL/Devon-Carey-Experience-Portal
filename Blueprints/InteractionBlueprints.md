@@ -1,0 +1,1 @@
+# Describes the interaction logic for different elements within the portal.

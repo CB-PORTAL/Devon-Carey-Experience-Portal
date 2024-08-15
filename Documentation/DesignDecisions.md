@@ -1,0 +1,1 @@
+# A document explaining the design choices made throughout the development.
